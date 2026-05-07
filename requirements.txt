@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+dash==2.18.2
+folium==0.17.0
+matplotlib==3.9.2
+pandas==2.2.3
+plotly==5.24.1
+pytest==8.3.5
+requests==2.32.3
+scikit-learn==1.5.2
+seaborn==0.13.2
+SQLAlchemy==2.0.36
